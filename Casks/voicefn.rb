@@ -1,6 +1,6 @@
 cask "voicefn" do
-  version "1.0.0"
-  sha256 "0be231e92871829809f11e311aac55a305dd362bb269878c234df0a8ad6fd2c9"
+  version "1.0.1"
+  sha256 "cc4db25a588d050cc21c3df7a25b85018d90e481220a33302fa45ec320eff64f"
 
   url "https://github.com/relsett/voicefn/releases/download/v#{version}/VoiceFn-#{version}.dmg"
   name "VoiceFn"
